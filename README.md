@@ -1,4 +1,4 @@
-# Always on Shelf 🤖
+# Always on Shelf
 
 > **Agente de IA que aprende cualquier proceso web por observación y lo replica de forma autónoma — sin reglas escritas a mano.**
 
