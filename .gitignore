@@ -1,0 +1,5 @@
+runs/
+sesion_grabada.json
+__pycache__/
+*.pyc
+.env
